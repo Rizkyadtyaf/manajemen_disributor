@@ -12,5 +12,5 @@
   Composer is a dependency manager for PHP, essential for installing Laravel and managing project libraries.
 
 - **Node.js & npm**  
-  **Node.js** and **npm** are required to manage JavaScript dependencies and frontend builds. The recommended Node.js version is **>= 16.x**. After installing Node.js, run `npm install` to install the frontend dependencies.
+
 
